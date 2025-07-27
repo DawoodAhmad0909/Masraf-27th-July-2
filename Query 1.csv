@@ -1,0 +1,5 @@
+panel_id,model_number,panel_type,power_output_watts,efficiency,price
+4,JKM395M-72HL4,Monocrystalline,395,20.50,310.00
+1,SPR-X22-360,Monocrystalline,360,22.80,285.00
+5,REC365TP4,Monocrystalline,365,21.30,275.00
+2,LG365Q1C-A5,Monocrystalline,365,21.40,270.00
